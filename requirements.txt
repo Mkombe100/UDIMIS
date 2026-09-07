@@ -1,0 +1,4 @@
+express
+pg
+nodemailer
+cors
